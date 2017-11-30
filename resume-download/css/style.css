@@ -47,7 +47,7 @@ h4 {
     text-transform: capitalize;
     letter-spacing: 2px;
     position: relative;
-    color: #425BB5;
+    color: teal;
     margin-left: 40px;
     font-weight: 700;
 }
@@ -71,6 +71,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
+    color: teal
 }
 
 .size-50 {
@@ -282,7 +283,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: pink;
     background-size: cover;
     height: 100vh;
 }
@@ -325,7 +326,7 @@ a.active {
 
 #experience {
     padding: 100px 0;
-    background: #f3f3f3
+    background:pink
 }
 
 .experience-row {
@@ -633,7 +634,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
+    background: pink
 }
 
 #contact-form input,
