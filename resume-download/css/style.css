@@ -250,7 +250,7 @@ nav li {
 nav li a {
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #444;
+    color: teal;
     font-size: 11px;
     font-weight: bold;
 }
@@ -265,17 +265,17 @@ nav li a {
 }
 
 a:focus {
-    color: #444;
+    color: teal;
     text-decoration: none;
 }
 
 a:hover {
-    color: #425BB5;
+    color: #teal;
     text-decoration: none;
 }
 
 a.active {
-    color: #425BB5;
+    color: teal;
 }
 
 
@@ -378,11 +378,11 @@ a.active {
 .timeline-event:hover .timeline-event-icon {
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
-    background-color: #425BB5;
+    background-color: teal;
 }
 
 .timeline-event:hover .timeline-event-thumbnail {
-    box-shadow: inset 40em 0 0 0 #425BB5;
+    box-shadow: inset 40em 0 0 0 teal;
 }
 
 .timeline-event-copy {
@@ -439,7 +439,7 @@ a.active {
     font-size: 12px;
     font-weight: bold;
     background-color: black;
-    box-shadow: inset 0 0 0 0em #425BB5;
+    box-shadow: inset 0 0 0 0em teal;
     display: inline-block;
     margin-bottom: 1.2em;
     padding: 0.25em 1em 0.2em 1em;
