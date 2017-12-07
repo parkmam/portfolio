@@ -803,11 +803,11 @@ fieldset {
 }
 
 h4::before {
-    background: red;
+    background: teal;
 }
 .timeline-event-icon {
   background-color: teal;
 }
 .timeline-event:hover .timeline-event-icon {
-    background-color: red;
+    background-color: teal;
 }
