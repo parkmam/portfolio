@@ -438,7 +438,7 @@ a.active {
     color: white;
     font-size: 12px;
     font-weight: bold;
-    background-color: #425BB5;
+    background-color: black;
     box-shadow: inset 0 0 0 0em teal;
     display: inline-block;
     margin-bottom: 1.2em;
@@ -800,4 +800,14 @@ fieldset {
     nav li a {
         font-size: 10px;
     }
+}
+
+h4::before {
+    background: red;
+}
+.timeline-event-icon {
+  background-color: teal;
+}
+.timeline-event:hover .timeline-event-icon {
+    background-color: red;
 }
