@@ -417,7 +417,7 @@ a.active {
     transition: transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #425BB5;
+    teal;
     outline: 10px solid #f3f3f3;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
@@ -537,7 +537,7 @@ a.active {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #425BB5;
+    teal;
     padding: 5px 20px;
     color: #fff;
     margin-top: 10px;
@@ -725,7 +725,7 @@ fieldset {
 }
 
 #submit {
-    background-color: #425BB5;
+    teal;
     color: #fff;
     padding: 10px 40px;
     border-radius: 0;
