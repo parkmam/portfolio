@@ -726,7 +726,7 @@ fieldset {
 
 #submit {
     teal;
-    color: #fff;
+    teal;
     padding: 10px 40px;
     border-radius: 0;
     text-transform: uppercase;
@@ -746,7 +746,7 @@ fieldset {
 }
 
 .social li a {
-    color: #333;
+    	teal;
     font-size: 35px;
     margin-right: 15px;
     transition: all .3s;
